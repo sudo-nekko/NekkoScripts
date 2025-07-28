@@ -5,4 +5,3 @@ Low Latency RegEdit Scripts / Scripts para bajar la latencia.
 
 Another Stuff:
 +# Support [msx]HalleyLabs Music: https://lapfox.bandcamp.com/
-+# Support RaveFurryCore Music.
