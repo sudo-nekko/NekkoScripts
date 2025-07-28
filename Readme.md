@@ -1,6 +1,3 @@
-Nekko QuickScripts.
+Cpu-Windows Optimization Scripts by: Techie Savi.
 
-Low Latency RegEdit Scripts / Scripts para bajar la latencia.
-[Puedes revisar los scripts para ver si es seguro.]
-
-Ejecutalos en modo Administrador.
+Low Latency RegEdit Scripts.
